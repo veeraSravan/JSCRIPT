@@ -62,3 +62,12 @@ console.log(value2);
 
 value2--;
 console.log(value2);
+
+
+//Escaping the literals
+
+const myStr = "I am a \"dobule quoted \" string inside \"double quotes\". ";
+console.log(myStr);
+
+
+
